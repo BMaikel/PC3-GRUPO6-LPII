@@ -7,7 +7,7 @@
 - Estrella Palacios, Alexandre Jamil - 20191303
 - CCastillo Morin, Andre Benjamin - 20210829
 
-### Descripción
+### Sobre la API
 La Base de Datos de Estadísticas del BCRP (BCRPData) proporciona la herramienta API para Desarrolladores como una de las facilidades que
 se brindan para la obtención y uso de las series macroeconómicas.
 
