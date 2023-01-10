@@ -8,9 +8,7 @@
 - CCastillo Morin, Andre Benjamin - 20210829
 
 ### Descripción
-La siguiente API contiene  datos del COVID-19 de todo el mundo como número de contagios, pruebas, pacientes hospitalizados, fallecidos y mucho más.
+La Base de Datos de Estadísticas del BCRP (BCRPData) proporciona la herramienta API para Desarrolladores como una de las facilidades que
+se brindan para la obtención y uso de las series macroeconómicas.
 
-El proyecto de seguimiento de COVID finalizó toda la recopilación de datos a partir del 7 de marzo de 2021.
-
-**Enlance:** [https://covidtracking.com/data/api](https://covidtracking.com/data/api)
-
+**Enlance:** [https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api)
