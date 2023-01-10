@@ -1,2 +1,2 @@
-# PC3_3_LP2
+# PC3_LP2
 PC3 LP2
